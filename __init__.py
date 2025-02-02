@@ -9,7 +9,7 @@ bl_info = {
         "category": "Object",
         "author": "Vit Prochazka",
         "version": (1, 0),
-        "blender": (2, 80, 0),
+        "blender": (4, 3, 0),
         "description": "Modify primitives after creation.",
         "warning": "Unexpected bugs can be expected!"
         }
